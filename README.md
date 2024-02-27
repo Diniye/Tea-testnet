@@ -1,2 +1,8 @@
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0xC1446941E854c0541F24C8BFA73180c7b54c4D74'
+quorum: 1
 # Tea-testnet
 Incentivized testnet
